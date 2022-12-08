@@ -1,6 +1,6 @@
 <template>
   <GChart
-    type="LineChart"
+    type="TrendLinesChart"
     :data="chartData"
     :options="chartOptions"
   />
